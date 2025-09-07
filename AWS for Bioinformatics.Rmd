@@ -2,7 +2,7 @@
 title: "Resources for how to use AWS for practicing bioinformatics"
 author: "Haibo Liu"
 date: "2025-09-07"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
