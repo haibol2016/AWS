@@ -1,0 +1,170 @@
+## 1. Introduction to AWS
+
+This
+[tutorial](https://rnabio.org/module-00-setup/0000/06/01/Intro_to_AWS/)
+was part of training workshop, **RNA-seq Bioinformatics–Introduction to
+bioinformatics for RNA sequence analysis**, hosted by Dr. Griffit,
+Professor of Medicine (Oncology) and Genetics and Assistant Director of
+the McDonnell Genome Institute at Washington University. It is well
+explained to how to use EC2 for bioinformatics.
+
+## 2. GIS X AWS training workshop
+
+[Here](https://d3dxnowv1fnvq7.cloudfront.net/) are tutorials for the
+online cloud genomics workshop held by Dr. Swaine Chen et al. from the
+Genome Institute of Singapore. This workshop aimed at helping
+bioinformaticians transition to running workloads on AWS by providing
+step-by-step details, with a focus on EC2 and S3. This is the **best**
+one to start with to learn AWS for bioinformatics.
+
+[I ⁃ GIS x AWS Training
+Overview](https://d3dxnowv1fnvq7.cloudfront.net/01-hpc-overview.html)  
+[II ⁃ Start a virtual Linux
+machine](https://d3dxnowv1fnvq7.cloudfront.net/02-setup-ec2.html)  
+[III ⁃ Start a Linux machine from a shared
+AMI](https://d3dxnowv1fnvq7.cloudfront.net/03-ec2fromsharedami.html)  
+[IV ⁃ Attach additional
+storage](https://d3dxnowv1fnvq7.cloudfront.net/04-attachstorage.html)  
+[V ⁃ AWS
+CLI](https://d3dxnowv1fnvq7.cloudfront.net/15-awscli-intro.html)  
+[VI ⁃ Download data shared using Amazon
+S3](https://d3dxnowv1fnvq7.cloudfront.net/05-downloaddatafroms3.html)  
+[VII ⁃ Run a basic
+analysis](https://d3dxnowv1fnvq7.cloudfront.net/06-runanalyses.html)  
+[VIII ⁃ Create an image of EC2
+instance](https://d3dxnowv1fnvq7.cloudfront.net/07-create-image.html)  
+[IX ⁃ Terminate EC2 instance & Save Volume
+snapshot](https://d3dxnowv1fnvq7.cloudfront.net/08-stopterminateec2.html)  
+[X ⁃ Set up Linux machine from earlier created
+AMI](https://d3dxnowv1fnvq7.cloudfront.net/10-recreateinstanceami.html)  
+[XI ⁃ Create Volume from Snapshot and attach to
+EC2](https://d3dxnowv1fnvq7.cloudfront.net/11-volumefromsnap.html)  
+[XII ⁃ Create S3 bucket, transfer and make objects
+public](https://d3dxnowv1fnvq7.cloudfront.net/12-creates3sharedata.html)  
+[XIII ⁃ Share an AMI and an EBS snapshot with your
+Collaborators](https://d3dxnowv1fnvq7.cloudfront.net/13-shareami.html)  
+[XIV ⁃ Exploring Billing and
+Costs](https://d3dxnowv1fnvq7.cloudfront.net/09-exploringcostsbilling.html)  
+[XV ⁃ Cleaning
+up](https://d3dxnowv1fnvq7.cloudfront.net/16-cleanup.html)  
+[XVI ⁃ Appendix](https://d3dxnowv1fnvq7.cloudfront.net/14-appendix.html)
+
+## 3. AWS for Bioinformatics by Lynn Langit
+
+This GitHub [repo](https://github.com/lynnlangit/aws-for-bioinformatics)
+hosts a free and open source course “AWS for Bioinformatics”. Course
+Materials include this repo and a YouTube playlist. This is a more
+advanced and comprehensive course presented by Lynn Langit. Very good
+reference.
+
+## 4. AWS HealthOmics - End to End
+
+[Here](https://catalog.workshops.aws/amazon-omics-end-to-end/en-US) is a
+detailed tutorial showing how to use AWS HealthOmics for variant
+analysis. This tutorial was part of AWS workshop.
+
+### Learning Outcomes
+
+By completing this activity, you will be able to:
+
+• Articulate the value proposition of AWS HealthOmics  
+• Load sequencing data into HealthOmics Storage  
+• Run a genomics secondary analysis workflow through HealthOmics
+Workflows  
+• Load VCFs (variant data) into the Variant store and load variant
+annotations into the Annotation store  
+• Query both variants and annotations through Athena
+
+The content of this workshop is presented for self-paced or instructor
+led consumption. Attendees should expect a minimum of 1hr to complete
+core activities. For a more in-depth dive, 2hrs is recommended.
+
+*Best experience*: AWS Hosted Event An AWS hosted event provides the
+best experience for completing this workshop. Contact your AWS account
+representative if you are interested in participating in the next
+available session.
+
+*Region availability* Currently, events for this workshop can only be
+provisioned in AWS regions where AWS HealthOmics is available
+
+### Target Audience
+
+This workshop is for IT administrators, bioinformaticians, and software
+developers who are interested in a managed experience for their genomics
+needs.
+
+### Background experience
+
+Some experience with AWS, omics data types, and bioinformatics data
+analysis is expected but not a strict requirement.
+
+This workshop makes use of some CLI commands and coding in Python and
+SQL.
+
+### Cost expectations
+
+This workshop is designed for use at a hosted AWS event where managed
+AWS accounts are provided to attendees. As such attendees should not
+expect to incur any costs for resources created by this workshop.
+
+Customers running this workshop outside of an AWS hosted event with
+their personal AWS accounts as a self-paced activity can expect a total
+cost of around 1-2 USD if completed within 2hrs.
+
+## 5. Migrating nf-core workflows to AWS HealthOmics
+
+[Here](https://catalog.us-east-1.prod.workshops.aws/workshops/76d4a4ff-fe6f-436a-a1c2-f7ce44bc5d17/en-US)
+is a detailed tutorial showing how to migrte nf-core workflows to AWS
+HealthOmics. This tutorial was part of AWS workshop.
+
+### Learning Outcomes
+
+By completing this activity, you will be able to:
+
+• Understand how to migrate nf-core workflows into AWS HealthOmics  
+• Run a secondary analysis workflow through AWS HealthOmics Workflows  
+• Run and monitor a workflow with test data
+
+This workshop can be part of an AWS instructor-led event. Attendees
+should expect a minimum of 1hr to complete core activities. For a more
+in-depth dive, 2hrs is recommended.
+
+### Target Audience
+
+This workshop is for bioinformaticians and software developers who are
+interested in migrating an nf-core nextflow workflow to AWS
+HealthOmics - a purpose-built service that helps healthcare and life
+science organizations and their software partners store, query, and
+analyze genomic, transcriptomic, and other omics data and then generate
+insights from that data to improve health. It supports large-scale
+analysis and collaborative research.
+
+### Background experience
+
+Some experience with AWS and genomics is expected but not a strict
+requirement. Familiarity running ‘Nextflow’
+
+### Cost expectations
+
+This workshop is designed for use at a hosted AWS event where managed
+AWS accounts are provided to attendees. As such attendees should not
+expect to incur any costs for resources created by this workshop.
+
+Customers running this workshop outside of an AWS hosted event with
+their personal AWS accounts can expect a total cost of around 1-2 USD if
+completed within 2hrs.
+
+## 6. Nextflow and AWS Batch – Inside the Integration
+
+• [Episode
+1](https://seqera.io/blog/nextflow-and-aws-batch-inside-the-integration-part-1-of-3/)
+
+• [Episode
+2](https://seqera.io/blog/nextflow-and-aws-batch-inside-the-integration-part-2-of-3/),
+following a detailed step-by-step guide with screenshots along the way
+is offered by the State Public Health BioInformatics Group. [Setting Up
+Nextflow and AWS
+Batch](https://staphb.org/resources/2020-04-29-nextflow_batch.html)
+
+• [Episode 3: using
+Tower](https://seqera.io/blog/nextflow-and-aws-batch-using-tower-part-3-of-3/)
