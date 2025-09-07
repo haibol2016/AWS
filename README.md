@@ -8,7 +8,7 @@ Professor of Medicine (Oncology) and Genetics and Assistant Director of
 the McDonnell Genome Institute at Washington University. It is well
 explained to how to use EC2 for bioinformatics.
 
-## 2. GIS X AWS training workshop.
+## 2. GIS X AWS training workshop
 
 [Here](https://d3dxnowv1fnvq7.cloudfront.net/) are tutorials for the
 online cloud genomics workshop held by Dr. Swaine Chen et al. from the
@@ -30,24 +30,24 @@ CLI](https://d3dxnowv1fnvq7.cloudfront.net/15-awscli-intro.html)
 [VI ⁃ Download data shared using Amazon
 S3](https://d3dxnowv1fnvq7.cloudfront.net/05-downloaddatafroms3.html)  
 [VII ⁃ Run a basic
-analysis](https://d3dxnowv1fnvq7.cloudfront.net/06-runanalyses.html).
+analysis](https://d3dxnowv1fnvq7.cloudfront.net/06-runanalyses.html)  
 [VIII ⁃ Create an image of EC2
-instance](https://d3dxnowv1fnvq7.cloudfront.net/07-create-image.html).
+instance](https://d3dxnowv1fnvq7.cloudfront.net/07-create-image.html)  
 [IX ⁃ Terminate EC2 instance & Save Volume
-snapshot](https://d3dxnowv1fnvq7.cloudfront.net/08-stopterminateec2.html).
+snapshot](https://d3dxnowv1fnvq7.cloudfront.net/08-stopterminateec2.html)  
 [X ⁃ Set up Linux machine from earlier created
-AMI](https://d3dxnowv1fnvq7.cloudfront.net/10-recreateinstanceami.html).
+AMI](https://d3dxnowv1fnvq7.cloudfront.net/10-recreateinstanceami.html)  
 [XI ⁃ Create Volume from Snapshot and attach to
 EC2](https://d3dxnowv1fnvq7.cloudfront.net/11-volumefromsnap.html)  
 [XII ⁃ Create S3 bucket, transfer and make objects
-public](https://d3dxnowv1fnvq7.cloudfront.net/12-creates3sharedata.html).
+public](https://d3dxnowv1fnvq7.cloudfront.net/12-creates3sharedata.html)  
 [XIII ⁃ Share an AMI and an EBS snapshot with your
-Collaborators](https://d3dxnowv1fnvq7.cloudfront.net/13-shareami.html).
+Collaborators](https://d3dxnowv1fnvq7.cloudfront.net/13-shareami.html)  
 [XIV ⁃ Exploring Billing and
-Costs](https://d3dxnowv1fnvq7.cloudfront.net/09-exploringcostsbilling.html).
+Costs](https://d3dxnowv1fnvq7.cloudfront.net/09-exploringcostsbilling.html)  
 [XV ⁃ Cleaning
-up](https://d3dxnowv1fnvq7.cloudfront.net/16-cleanup.html). [XVI ⁃
-Appendix](https://d3dxnowv1fnvq7.cloudfront.net/14-appendix.html).
+up](https://d3dxnowv1fnvq7.cloudfront.net/16-cleanup.html)  
+[XVI ⁃ Appendix](https://d3dxnowv1fnvq7.cloudfront.net/14-appendix.html)
 
 ## 3. AWS for Bioinformatics by Lynn Langit
 
